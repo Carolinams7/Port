@@ -4,7 +4,7 @@ A particle-theme Portfolio.
 
 > [Demo](https://carolinams7.github.io/Portfolio/)
 
-<img src="https://github.com/Carolinams7/Portfolio/raw/master/particle_demo.png"/>
+<img src="https://github.com/Carolinams7/Portfolio/raw/master/particle_demo/port_demo.png"/>
 
 # Particle Feature
 
