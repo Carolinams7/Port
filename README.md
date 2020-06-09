@@ -1,8 +1,8 @@
 # Portfolio
 
-A particle-theme template as a landing page for your portfolio.
+A particle-theme Portfolio.
 
-> [Demo](https://landing-page--itsron717.repl.co/)
+> [Demo](https://carolinams7.github.io/Portfolio/)
 
 <img src="https://github.com/Carolinams7/Portfolio/raw/master/particle_demo.png"/>
 
