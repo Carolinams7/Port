@@ -4,11 +4,7 @@ A particle-theme template as a landing page for your portfolio.
 
 > [Demo](https://landing-page--itsron717.repl.co/)
 
-<img src="particle_demo/particle_demo.png"/>
-
-- Modify `index.html` to change the names and links to point at your pages.
-
-- Upload your resume in the place of `deedy.pdf` (Or One can use the famous deedy template and build on that)
+<img src="https://github.com/Carolinams7/Portfolio/raw/master/particle_demo.png"/>
 
 # Particle Feature
 
