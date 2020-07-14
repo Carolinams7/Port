@@ -1,6 +1,6 @@
 # Portfolio
 
-A particle-theme Portfolio including Linkedin, Github and this Portfolio link.
+A particle-theme Portfolio including LinkedIn, Github and this Portfolio link.
 
 > [Demo](https://carolinams7.github.io/Portfolio/)
 
