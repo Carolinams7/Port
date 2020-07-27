@@ -18,15 +18,10 @@ The particle feature was obtained with the help of this [particleground](https:/
 
 This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle).
 
-### Dev Dependencies
+### Tech/Framework used
 
-- [Prettier]
-- [ESTLint]
-- [Babel]
-- [Nodemailer]
-- [Webpack]
-- [React]
-- [React-DOM]
+- [CSS]
+- [JQuery]
 
 ## Author
 
