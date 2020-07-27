@@ -1,15 +1,37 @@
 # Portfolio
 
-A particle-theme Portfolio including LinkedIn, Github and this Portfolio link.
+A particle-theme Portfolio including LinkedIn, Github, Resume and Portfolio.
 
 > [Demo](https://carolinams7.github.io/Portfolio/)
 
 <img src="https://github.com/Carolinams7/Portfolio/raw/master/particle_demo/portfoliopic.png"/>
 
-# Particle Feature
+## Overview
+
+As a web developer, I want to have a portfolio that provides great UI and UX to properly shows the necessary information.
+
+### Particle Feature
 
 The particle feature was obtained with the help of this [particleground](https://github.com/jnicol/particleground).
 
-# References and Inspiration
+### References and Inspiration
 
 This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle).
+
+### Dev Dependencies
+
+- [Prettier]
+- [ESTLint]
+- [Babel]
+- [Nodemailer]
+- [Webpack]
+- [React]
+- [React-DOM]
+
+## Author
+
+- **Carolina Szyman** - (github.com/Carolinams7)
+
+
+
+
